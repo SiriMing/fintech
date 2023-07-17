@@ -7,10 +7,11 @@
 | --- | --- |
 |[Google Bard](https://bard.google.com)|谷歌bard,底层为Google的PaLM-2模型|
 |[Claude](https://www.anthropic.com/product)|ChatGPT最大竞争对手anthropic发布的Claude|
-|[Falcon](https://huggingface.co/tiiuae/falcon-40b)|Falcon由阿联酋技术研究所在超高质量1万亿Token上训练得到1B，7B，40B开源，免费商用！|
-|[LLaMA](https://github.com/facebookresearch/llama)|Meta开源指令微调LLM，规模70 亿到 650 亿不等|
-|[Bloom](https://huggingface.co/bigscience/bloom)|BigScience出品，规模最大176B|
-|[BloomZ](https://huggingface.co/bigscience/bloomz)|BigScience出品, 基于Bloom微调|
+|[Falcon](https://huggingface.co/tiiuae/falcon-40b)|Falcon由阿联酋技术研究所在超高质量1万亿Token上训练得到1B，7B，40B开源，免费商用，但商用前需要通过申请！|
+|[LLaMA](https://github.com/facebookresearch/llama)|Meta开源指令微调LLM，规模70 亿到 650 亿不等，不可商用|
+|[Bloom](https://huggingface.co/bigscience/bloom)|BigScience出品，规模最大176B，有限商用|
+|[BloomZ](https://huggingface.co/bigscience/bloomz)|BigScience出品, 基于Bloom微调,有限商用|
+|[Chinchilla]()
 ####  LLM应用
 - [LangChain](https://langchain.com/)
 - [Semantic Kernel](https://aka.ms/semantic-kernel)

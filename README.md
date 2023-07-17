@@ -11,7 +11,6 @@
 |[LLaMA](https://github.com/facebookresearch/llama)|Meta开源指令微调LLM，规模70 亿到 650 亿不等，不可商用|
 |[Bloom](https://huggingface.co/bigscience/bloom)|BigScience出品，规模最大176B，有限商用|
 |[BloomZ](https://huggingface.co/bigscience/bloomz)|BigScience出品, 基于Bloom微调,有限商用|
-|[Chinchilla]()
 ####  LLM应用
 - [LangChain](https://langchain.com/)
 - [Semantic Kernel](https://aka.ms/semantic-kernel)

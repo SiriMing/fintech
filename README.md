@@ -1,7 +1,9 @@
 # fintech
-涵盖金融相关内容：AI、经济与金融、产品与管理、工程技术
+涵盖金融相关内容：AI、经济与金融、产品与管理、工程技术。
 ##  AI
+涵盖机器学习、深度学习、LLM等。
 ###  LLM
+涵盖LLMs、LLM应用
 ####  LLMs
 |模型链接     | 模型描述    |
 | --- | --- |
@@ -11,6 +13,6 @@
 |[LLaMA](https://github.com/facebookresearch/llama)|Meta开源指令微调LLM，规模70 亿到 650 亿不等，不可商用|
 |[Bloom](https://huggingface.co/bigscience/bloom)|BigScience出品，规模最大176B，有限商用|
 |[BloomZ](https://huggingface.co/bigscience/bloomz)|BigScience出品, 基于Bloom微调,有限商用|
-####  LLM应用
+####  LLM工具
 - [LangChain](https://langchain.com/)
 - [Semantic Kernel](https://aka.ms/semantic-kernel)

@@ -26,3 +26,5 @@
 ####  LLM工具
 - [LangChain](https://langchain.com/)
 - [Semantic Kernel](https://aka.ms/semantic-kernel)
+####  代码编写插件
+- [CodeGeeX](https://codegeex.cn/)

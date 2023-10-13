@@ -23,8 +23,21 @@
 |[星火](https://github.com/facebookresearch/llama)|科大讯飞|
 |[ChatGLM](https://huggingface.co/bigscience/bloom)|清华、智谱|
 |[MiniMax](https://huggingface.co/bigscience/bloomz)|MiniMax|
-####  LLM工具
+|[BaiChuan](https://huggingface.co/bigscience/bloomz)|百川|
+####  LLMs-金融、法律
+|模型链接|模型描述|
+| --- | --- |
+|[度小满](https://chat.baidu.com/)|百度金融|
+|[蚂蚁金融大模型](https://www.anthropic.com/product)|阿里|
+|[彭博金融大模型](https://www.anthropic.com/product)|Bloomberg|
+|[chatlaw](https://huggingface.co/tiiuae/falcon-40b)|北大|
+####  LLM开发工具
 - [LangChain](https://langchain.com/)
 - [Semantic Kernel](https://aka.ms/semantic-kernel)
+- [AutoGen](https://microsoft.github.io/autogen/)
 ####  代码编写插件
 - [CodeGeeX](https://codegeex.cn/)
+####  LLM应用平台
+- [Vanus中文](https://www.vanus.cn/)
+- [Vanus](https://www.vanus.ai/)
+- [Vanus](https://humanloop.com/)

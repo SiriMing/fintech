@@ -14,6 +14,7 @@
 |[Falcon](https://huggingface.co/tiiuae/falcon-40b)|Falcon由阿联酋技术研究所在超高质量1万亿Token上训练得到1B，7B，40B开源，免费商用，但商用前需要通过申请！|
 |[Bloom](https://huggingface.co/bigscience/bloom)|BigScience出品，规模最大176B，有限商用|
 |[BloomZ](https://huggingface.co/bigscience/bloomz)|BigScience出品, 基于Bloom微调,有限商用|
+|[INFLECTION AI](https://huggingface.co/bigscience/bloomz)|INFLECTION AI|
 ####  LLMs-国内
 |模型链接|模型描述|
 | --- | --- |
@@ -31,13 +32,20 @@
 |[蚂蚁金融大模型](https://www.anthropic.com/product)|阿里|
 |[彭博金融大模型](https://www.anthropic.com/product)|Bloomberg|
 |[chatlaw](https://huggingface.co/tiiuae/falcon-40b)|北大|
+|[casetext](https://huggingface.co/tiiuae/falcon-40b)|casetext|
+|[Harvey](https://huggingface.co/tiiuae/falcon-40b)|casetext|
 ####  LLM开发工具
 - [LangChain](https://langchain.com/)
 - [Semantic Kernel](https://aka.ms/semantic-kernel)
 - [AutoGen](https://microsoft.github.io/autogen/)
 ####  代码编写插件
 - [CodeGeeX](https://codegeex.cn/)
+- [github copilot](https://codegeex.cn/)
+- [replit](https://codegeex.cn/)
 ####  LLM应用平台
 - [Vanus中文](https://www.vanus.cn/)
 - [Vanus](https://www.vanus.ai/)
-- [Vanus](https://humanloop.com/)
+- [语聚AI（集简云）](https://www.vanus.ai/)
+- [humanloop](https://humanloop.com/)
+- [Adept](https://humanloop.com/)
+- [Cohere](https://humanloop.com/)
